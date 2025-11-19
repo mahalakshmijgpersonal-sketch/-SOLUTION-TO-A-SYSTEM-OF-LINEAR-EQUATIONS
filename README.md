@@ -18,7 +18,7 @@ End the program
 A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
 X=np.linalg.solve(A,B)
-print(X)```
+print(X)
 ## Output:
 <img width="1920" height="1080" alt="Screenshot 2025-11-19 104015" src="https://github.com/user-attachments/assets/654d94d8-b5d2-49cc-9907-d9d42644600f" />
 
